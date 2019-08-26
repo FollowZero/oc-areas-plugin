@@ -1,0 +1,13 @@
+fields:
+    is_enabled:
+        label: 'plus.area::lang.city.enabled'
+        span: full
+        type: checkbox
+    name:
+        label: 'plus.area::lang.city.name'
+        span: auto
+        type: text
+    code:
+        label: 'plus.area::lang.city.code'
+        span: auto
+        type: text

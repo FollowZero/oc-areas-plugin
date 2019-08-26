@@ -1,0 +1,12 @@
+list: $/plus/area/models/village/columns.yaml
+modelClass: Plus\Area\Models\Village
+title: Villages
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'plus/area/villages/update/:id'

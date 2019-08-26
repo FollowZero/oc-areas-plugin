@@ -1,0 +1,10 @@
+columns:
+    name:
+        label: 'plus.area::lang.town.name'
+        type: text
+    code:
+        label: 'plus.area::lang.town.code'
+        type: text
+    is_enabled:
+        label: 'plus.area::lang.town.enabled'
+        type: switch

@@ -1,0 +1,13 @@
+# ===================================
+#  Relation Behavior Config
+# ===================================
+
+cities:
+    label: plus.area::lang.city.label
+    manage:
+        list: $/plus/area/models/city/columns.yaml
+        form: $/plus/area/models/city/fields.yaml
+    view:
+        list: $/plus/area/models/city/columns.yaml
+        recordUrl: plus/area/cities/update/:id
+        toolbarButtons: create|delete

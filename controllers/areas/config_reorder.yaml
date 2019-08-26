@@ -1,0 +1,4 @@
+title: Areas
+modelClass: Plus\Area\Models\Province
+toolbar:
+    buttons: reorder_toolbar

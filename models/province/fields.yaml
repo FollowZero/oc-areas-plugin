@@ -1,0 +1,13 @@
+fields:
+    is_enabled:
+        label: 'plus.area::lang.province.enabled'
+        span: full
+        type: checkbox
+    name:
+        label: 'plus.area::lang.province.name'
+        span: auto
+        type: text
+    code:
+        label: 'plus.area::lang.province.code'
+        span: auto
+        type: text

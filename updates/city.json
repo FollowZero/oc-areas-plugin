@@ -1,0 +1,2410 @@
+[
+  {
+    "id": 1,
+    "name": "市辖区",
+    "code": "01",
+    "province_id": 1,
+    "is_enabled": 1
+  },
+  {
+    "id": 2,
+    "name": "县",
+    "code": "02",
+    "province_id": 1,
+    "is_enabled": 1
+  },
+  {
+    "id": 3,
+    "name": "市辖区",
+    "code": "01",
+    "province_id": 2,
+    "is_enabled": 1
+  },
+  {
+    "id": 4,
+    "name": "市辖县",
+    "code": "02",
+    "province_id": 2,
+    "is_enabled": 1
+  },
+  {
+    "id": 5,
+    "name": "石家庄市",
+    "code": "01",
+    "province_id": 3,
+    "is_enabled": 1
+  },
+  {
+    "id": 6,
+    "name": "唐山市",
+    "code": "02",
+    "province_id": 3,
+    "is_enabled": 1
+  },
+  {
+    "id": 7,
+    "name": "秦皇岛市",
+    "code": "03",
+    "province_id": 3,
+    "is_enabled": 1
+  },
+  {
+    "id": 8,
+    "name": "邯郸市",
+    "code": "04",
+    "province_id": 3,
+    "is_enabled": 1
+  },
+  {
+    "id": 9,
+    "name": "邢台市",
+    "code": "05",
+    "province_id": 3,
+    "is_enabled": 1
+  },
+  {
+    "id": 10,
+    "name": "保定市",
+    "code": "06",
+    "province_id": 3,
+    "is_enabled": 1
+  },
+  {
+    "id": 11,
+    "name": "张家口市",
+    "code": "07",
+    "province_id": 3,
+    "is_enabled": 1
+  },
+  {
+    "id": 12,
+    "name": "承德市",
+    "code": "08",
+    "province_id": 3,
+    "is_enabled": 1
+  },
+  {
+    "id": 13,
+    "name": "沧州市",
+    "code": "09",
+    "province_id": 3,
+    "is_enabled": 1
+  },
+  {
+    "id": 14,
+    "name": "廊坊市",
+    "code": "10",
+    "province_id": 3,
+    "is_enabled": 1
+  },
+  {
+    "id": 15,
+    "name": "衡水市",
+    "code": "11",
+    "province_id": 3,
+    "is_enabled": 1
+  },
+  {
+    "id": 16,
+    "name": "太原市",
+    "code": "01",
+    "province_id": 4,
+    "is_enabled": 1
+  },
+  {
+    "id": 17,
+    "name": "大同市",
+    "code": "02",
+    "province_id": 4,
+    "is_enabled": 1
+  },
+  {
+    "id": 18,
+    "name": "阳泉市",
+    "code": "03",
+    "province_id": 4,
+    "is_enabled": 1
+  },
+  {
+    "id": 19,
+    "name": "长治市",
+    "code": "04",
+    "province_id": 4,
+    "is_enabled": 1
+  },
+  {
+    "id": 20,
+    "name": "晋城市",
+    "code": "05",
+    "province_id": 4,
+    "is_enabled": 1
+  },
+  {
+    "id": 21,
+    "name": "朔州市",
+    "code": "06",
+    "province_id": 4,
+    "is_enabled": 1
+  },
+  {
+    "id": 22,
+    "name": "晋中市",
+    "code": "07",
+    "province_id": 4,
+    "is_enabled": 1
+  },
+  {
+    "id": 23,
+    "name": "运城市",
+    "code": "08",
+    "province_id": 4,
+    "is_enabled": 1
+  },
+  {
+    "id": 24,
+    "name": "忻州市",
+    "code": "09",
+    "province_id": 4,
+    "is_enabled": 1
+  },
+  {
+    "id": 25,
+    "name": "临汾市",
+    "code": "10",
+    "province_id": 4,
+    "is_enabled": 1
+  },
+  {
+    "id": 26,
+    "name": "吕梁市",
+    "code": "11",
+    "province_id": 4,
+    "is_enabled": 1
+  },
+  {
+    "id": 27,
+    "name": "呼和浩特市",
+    "code": "01",
+    "province_id": 5,
+    "is_enabled": 1
+  },
+  {
+    "id": 28,
+    "name": "包头市",
+    "code": "02",
+    "province_id": 5,
+    "is_enabled": 1
+  },
+  {
+    "id": 29,
+    "name": "乌海市",
+    "code": "03",
+    "province_id": 5,
+    "is_enabled": 1
+  },
+  {
+    "id": 30,
+    "name": "赤峰市",
+    "code": "04",
+    "province_id": 5,
+    "is_enabled": 1
+  },
+  {
+    "id": 31,
+    "name": "通辽市",
+    "code": "05",
+    "province_id": 5,
+    "is_enabled": 1
+  },
+  {
+    "id": 32,
+    "name": "鄂尔多斯市",
+    "code": "06",
+    "province_id": 5,
+    "is_enabled": 1
+  },
+  {
+    "id": 33,
+    "name": "呼伦贝尔市",
+    "code": "07",
+    "province_id": 5,
+    "is_enabled": 1
+  },
+  {
+    "id": 34,
+    "name": "巴彦淖尔市",
+    "code": "08",
+    "province_id": 5,
+    "is_enabled": 1
+  },
+  {
+    "id": 35,
+    "name": "乌兰察布市",
+    "code": "09",
+    "province_id": 5,
+    "is_enabled": 1
+  },
+  {
+    "id": 36,
+    "name": "兴安盟",
+    "code": "22",
+    "province_id": 5,
+    "is_enabled": 1
+  },
+  {
+    "id": 37,
+    "name": "锡林郭勒盟",
+    "code": "25",
+    "province_id": 5,
+    "is_enabled": 1
+  },
+  {
+    "id": 38,
+    "name": "阿拉善盟",
+    "code": "29",
+    "province_id": 5,
+    "is_enabled": 1
+  },
+  {
+    "id": 39,
+    "name": "沈阳市",
+    "code": "01",
+    "province_id": 6,
+    "is_enabled": 1
+  },
+  {
+    "id": 40,
+    "name": "大连市",
+    "code": "02",
+    "province_id": 6,
+    "is_enabled": 1
+  },
+  {
+    "id": 41,
+    "name": "鞍山市",
+    "code": "03",
+    "province_id": 6,
+    "is_enabled": 1
+  },
+  {
+    "id": 42,
+    "name": "抚顺市",
+    "code": "04",
+    "province_id": 6,
+    "is_enabled": 1
+  },
+  {
+    "id": 43,
+    "name": "本溪市",
+    "code": "05",
+    "province_id": 6,
+    "is_enabled": 1
+  },
+  {
+    "id": 44,
+    "name": "丹东市",
+    "code": "06",
+    "province_id": 6,
+    "is_enabled": 1
+  },
+  {
+    "id": 45,
+    "name": "锦州市",
+    "code": "07",
+    "province_id": 6,
+    "is_enabled": 1
+  },
+  {
+    "id": 46,
+    "name": "营口市",
+    "code": "08",
+    "province_id": 6,
+    "is_enabled": 1
+  },
+  {
+    "id": 47,
+    "name": "阜新市",
+    "code": "09",
+    "province_id": 6,
+    "is_enabled": 1
+  },
+  {
+    "id": 48,
+    "name": "辽阳市",
+    "code": "10",
+    "province_id": 6,
+    "is_enabled": 1
+  },
+  {
+    "id": 49,
+    "name": "盘锦市",
+    "code": "11",
+    "province_id": 6,
+    "is_enabled": 1
+  },
+  {
+    "id": 50,
+    "name": "铁岭市",
+    "code": "12",
+    "province_id": 6,
+    "is_enabled": 1
+  },
+  {
+    "id": 51,
+    "name": "朝阳市",
+    "code": "13",
+    "province_id": 6,
+    "is_enabled": 1
+  },
+  {
+    "id": 52,
+    "name": "葫芦岛市",
+    "code": "14",
+    "province_id": 6,
+    "is_enabled": 1
+  },
+  {
+    "id": 53,
+    "name": "长春市",
+    "code": "01",
+    "province_id": 7,
+    "is_enabled": 1
+  },
+  {
+    "id": 54,
+    "name": "吉林市",
+    "code": "02",
+    "province_id": 7,
+    "is_enabled": 1
+  },
+  {
+    "id": 55,
+    "name": "四平市",
+    "code": "03",
+    "province_id": 7,
+    "is_enabled": 1
+  },
+  {
+    "id": 56,
+    "name": "辽源市",
+    "code": "04",
+    "province_id": 7,
+    "is_enabled": 1
+  },
+  {
+    "id": 57,
+    "name": "通化市",
+    "code": "05",
+    "province_id": 7,
+    "is_enabled": 1
+  },
+  {
+    "id": 58,
+    "name": "白山市",
+    "code": "06",
+    "province_id": 7,
+    "is_enabled": 1
+  },
+  {
+    "id": 59,
+    "name": "松原市",
+    "code": "07",
+    "province_id": 7,
+    "is_enabled": 1
+  },
+  {
+    "id": 60,
+    "name": "白城市",
+    "code": "08",
+    "province_id": 7,
+    "is_enabled": 1
+  },
+  {
+    "id": 61,
+    "name": "延边朝鲜族自治州",
+    "code": "24",
+    "province_id": 7,
+    "is_enabled": 1
+  },
+  {
+    "id": 62,
+    "name": "哈尔滨市",
+    "code": "01",
+    "province_id": 8,
+    "is_enabled": 1
+  },
+  {
+    "id": 63,
+    "name": "齐齐哈尔市",
+    "code": "02",
+    "province_id": 8,
+    "is_enabled": 1
+  },
+  {
+    "id": 64,
+    "name": "鸡西市",
+    "code": "03",
+    "province_id": 8,
+    "is_enabled": 1
+  },
+  {
+    "id": 65,
+    "name": "鹤岗市",
+    "code": "04",
+    "province_id": 8,
+    "is_enabled": 1
+  },
+  {
+    "id": 66,
+    "name": "双鸭山市",
+    "code": "05",
+    "province_id": 8,
+    "is_enabled": 1
+  },
+  {
+    "id": 67,
+    "name": "大庆市",
+    "code": "06",
+    "province_id": 8,
+    "is_enabled": 1
+  },
+  {
+    "id": 68,
+    "name": "伊春市",
+    "code": "07",
+    "province_id": 8,
+    "is_enabled": 1
+  },
+  {
+    "id": 69,
+    "name": "佳木斯市",
+    "code": "08",
+    "province_id": 8,
+    "is_enabled": 1
+  },
+  {
+    "id": 70,
+    "name": "七台河市",
+    "code": "09",
+    "province_id": 8,
+    "is_enabled": 1
+  },
+  {
+    "id": 71,
+    "name": "牡丹江市",
+    "code": "10",
+    "province_id": 8,
+    "is_enabled": 1
+  },
+  {
+    "id": 72,
+    "name": "黑河市",
+    "code": "11",
+    "province_id": 8,
+    "is_enabled": 1
+  },
+  {
+    "id": 73,
+    "name": "绥化市",
+    "code": "12",
+    "province_id": 8,
+    "is_enabled": 1
+  },
+  {
+    "id": 74,
+    "name": "大兴安岭地区",
+    "code": "27",
+    "province_id": 8,
+    "is_enabled": 1
+  },
+  {
+    "id": 75,
+    "name": "市辖区",
+    "code": "01",
+    "province_id": 9,
+    "is_enabled": 1
+  },
+  {
+    "id": 76,
+    "name": "县",
+    "code": "02",
+    "province_id": 9,
+    "is_enabled": 1
+  },
+  {
+    "id": 77,
+    "name": "南京市",
+    "code": "01",
+    "province_id": 10,
+    "is_enabled": 1
+  },
+  {
+    "id": 78,
+    "name": "无锡市",
+    "code": "02",
+    "province_id": 10,
+    "is_enabled": 1
+  },
+  {
+    "id": 79,
+    "name": "徐州市",
+    "code": "03",
+    "province_id": 10,
+    "is_enabled": 1
+  },
+  {
+    "id": 80,
+    "name": "常州市",
+    "code": "04",
+    "province_id": 10,
+    "is_enabled": 1
+  },
+  {
+    "id": 81,
+    "name": "苏州市",
+    "code": "05",
+    "province_id": 10,
+    "is_enabled": 1
+  },
+  {
+    "id": 82,
+    "name": "南通市",
+    "code": "06",
+    "province_id": 10,
+    "is_enabled": 1
+  },
+  {
+    "id": 83,
+    "name": "连云港市",
+    "code": "07",
+    "province_id": 10,
+    "is_enabled": 1
+  },
+  {
+    "id": 84,
+    "name": "淮安市",
+    "code": "08",
+    "province_id": 10,
+    "is_enabled": 1
+  },
+  {
+    "id": 85,
+    "name": "盐城市",
+    "code": "09",
+    "province_id": 10,
+    "is_enabled": 1
+  },
+  {
+    "id": 86,
+    "name": "扬州市",
+    "code": "10",
+    "province_id": 10,
+    "is_enabled": 1
+  },
+  {
+    "id": 87,
+    "name": "镇江市",
+    "code": "11",
+    "province_id": 10,
+    "is_enabled": 1
+  },
+  {
+    "id": 88,
+    "name": "泰州市",
+    "code": "12",
+    "province_id": 10,
+    "is_enabled": 1
+  },
+  {
+    "id": 89,
+    "name": "宿迁市",
+    "code": "13",
+    "province_id": 10,
+    "is_enabled": 1
+  },
+  {
+    "id": 90,
+    "name": "杭州市",
+    "code": "01",
+    "province_id": 11,
+    "is_enabled": 1
+  },
+  {
+    "id": 91,
+    "name": "宁波市",
+    "code": "02",
+    "province_id": 11,
+    "is_enabled": 1
+  },
+  {
+    "id": 92,
+    "name": "温州市",
+    "code": "03",
+    "province_id": 11,
+    "is_enabled": 1
+  },
+  {
+    "id": 93,
+    "name": "嘉兴市",
+    "code": "04",
+    "province_id": 11,
+    "is_enabled": 1
+  },
+  {
+    "id": 94,
+    "name": "湖州市",
+    "code": "05",
+    "province_id": 11,
+    "is_enabled": 1
+  },
+  {
+    "id": 95,
+    "name": "绍兴市",
+    "code": "06",
+    "province_id": 11,
+    "is_enabled": 1
+  },
+  {
+    "id": 96,
+    "name": "金华市",
+    "code": "07",
+    "province_id": 11,
+    "is_enabled": 1
+  },
+  {
+    "id": 97,
+    "name": "衢州市",
+    "code": "08",
+    "province_id": 11,
+    "is_enabled": 1
+  },
+  {
+    "id": 98,
+    "name": "舟山市",
+    "code": "09",
+    "province_id": 11,
+    "is_enabled": 1
+  },
+  {
+    "id": 99,
+    "name": "台州市",
+    "code": "10",
+    "province_id": 11,
+    "is_enabled": 1
+  },
+  {
+    "id": 100,
+    "name": "丽水市",
+    "code": "11",
+    "province_id": 11,
+    "is_enabled": 1
+  },
+  {
+    "id": 101,
+    "name": "合肥市",
+    "code": "01",
+    "province_id": 12,
+    "is_enabled": 1
+  },
+  {
+    "id": 102,
+    "name": "芜湖市",
+    "code": "02",
+    "province_id": 12,
+    "is_enabled": 1
+  },
+  {
+    "id": 103,
+    "name": "蚌埠市",
+    "code": "03",
+    "province_id": 12,
+    "is_enabled": 1
+  },
+  {
+    "id": 104,
+    "name": "淮南市",
+    "code": "04",
+    "province_id": 12,
+    "is_enabled": 1
+  },
+  {
+    "id": 105,
+    "name": "马鞍山市",
+    "code": "05",
+    "province_id": 12,
+    "is_enabled": 1
+  },
+  {
+    "id": 106,
+    "name": "淮北市",
+    "code": "06",
+    "province_id": 12,
+    "is_enabled": 1
+  },
+  {
+    "id": 107,
+    "name": "铜陵市",
+    "code": "07",
+    "province_id": 12,
+    "is_enabled": 1
+  },
+  {
+    "id": 108,
+    "name": "安庆市",
+    "code": "08",
+    "province_id": 12,
+    "is_enabled": 1
+  },
+  {
+    "id": 109,
+    "name": "黄山市",
+    "code": "10",
+    "province_id": 12,
+    "is_enabled": 1
+  },
+  {
+    "id": 110,
+    "name": "滁州市",
+    "code": "11",
+    "province_id": 12,
+    "is_enabled": 1
+  },
+  {
+    "id": 111,
+    "name": "阜阳市",
+    "code": "12",
+    "province_id": 12,
+    "is_enabled": 1
+  },
+  {
+    "id": 112,
+    "name": "宿州市",
+    "code": "13",
+    "province_id": 12,
+    "is_enabled": 1
+  },
+  {
+    "id": 113,
+    "name": "巢湖市",
+    "code": "14",
+    "province_id": 12,
+    "is_enabled": 1
+  },
+  {
+    "id": 114,
+    "name": "六安市",
+    "code": "15",
+    "province_id": 12,
+    "is_enabled": 1
+  },
+  {
+    "id": 115,
+    "name": "亳州市",
+    "code": "16",
+    "province_id": 12,
+    "is_enabled": 1
+  },
+  {
+    "id": 116,
+    "name": "池州市",
+    "code": "17",
+    "province_id": 12,
+    "is_enabled": 1
+  },
+  {
+    "id": 117,
+    "name": "宣城市",
+    "code": "18",
+    "province_id": 12,
+    "is_enabled": 1
+  },
+  {
+    "id": 118,
+    "name": "福州市",
+    "code": "01",
+    "province_id": 13,
+    "is_enabled": 1
+  },
+  {
+    "id": 119,
+    "name": "厦门市",
+    "code": "02",
+    "province_id": 13,
+    "is_enabled": 1
+  },
+  {
+    "id": 120,
+    "name": "莆田市",
+    "code": "03",
+    "province_id": 13,
+    "is_enabled": 1
+  },
+  {
+    "id": 121,
+    "name": "三明市",
+    "code": "04",
+    "province_id": 13,
+    "is_enabled": 1
+  },
+  {
+    "id": 122,
+    "name": "泉州市",
+    "code": "05",
+    "province_id": 13,
+    "is_enabled": 1
+  },
+  {
+    "id": 123,
+    "name": "漳州市",
+    "code": "06",
+    "province_id": 13,
+    "is_enabled": 1
+  },
+  {
+    "id": 124,
+    "name": "南平市",
+    "code": "07",
+    "province_id": 13,
+    "is_enabled": 1
+  },
+  {
+    "id": 125,
+    "name": "龙岩市",
+    "code": "08",
+    "province_id": 13,
+    "is_enabled": 1
+  },
+  {
+    "id": 126,
+    "name": "宁德市　",
+    "code": "09",
+    "province_id": 13,
+    "is_enabled": 1
+  },
+  {
+    "id": 127,
+    "name": "南昌市",
+    "code": "01",
+    "province_id": 14,
+    "is_enabled": 1
+  },
+  {
+    "id": 128,
+    "name": "景德镇市",
+    "code": "02",
+    "province_id": 14,
+    "is_enabled": 1
+  },
+  {
+    "id": 129,
+    "name": "萍乡市",
+    "code": "03",
+    "province_id": 14,
+    "is_enabled": 1
+  },
+  {
+    "id": 130,
+    "name": "九江市",
+    "code": "04",
+    "province_id": 14,
+    "is_enabled": 1
+  },
+  {
+    "id": 131,
+    "name": "新余市",
+    "code": "05",
+    "province_id": 14,
+    "is_enabled": 1
+  },
+  {
+    "id": 132,
+    "name": "鹰潭市",
+    "code": "06",
+    "province_id": 14,
+    "is_enabled": 1
+  },
+  {
+    "id": 133,
+    "name": "赣州市",
+    "code": "07",
+    "province_id": 14,
+    "is_enabled": 1
+  },
+  {
+    "id": 134,
+    "name": "吉安市",
+    "code": "08",
+    "province_id": 14,
+    "is_enabled": 1
+  },
+  {
+    "id": 135,
+    "name": "宜春市",
+    "code": "09",
+    "province_id": 14,
+    "is_enabled": 1
+  },
+  {
+    "id": 136,
+    "name": "抚州市",
+    "code": "10",
+    "province_id": 14,
+    "is_enabled": 1
+  },
+  {
+    "id": 137,
+    "name": "上饶市",
+    "code": "11",
+    "province_id": 14,
+    "is_enabled": 1
+  },
+  {
+    "id": 138,
+    "name": "济南市",
+    "code": "01",
+    "province_id": 15,
+    "is_enabled": 1
+  },
+  {
+    "id": 139,
+    "name": "青岛市",
+    "code": "02",
+    "province_id": 15,
+    "is_enabled": 1
+  },
+  {
+    "id": 140,
+    "name": "淄博市",
+    "code": "03",
+    "province_id": 15,
+    "is_enabled": 1
+  },
+  {
+    "id": 141,
+    "name": "枣庄市",
+    "code": "04",
+    "province_id": 15,
+    "is_enabled": 1
+  },
+  {
+    "id": 142,
+    "name": "东营市",
+    "code": "05",
+    "province_id": 15,
+    "is_enabled": 1
+  },
+  {
+    "id": 143,
+    "name": "烟台市",
+    "code": "06",
+    "province_id": 15,
+    "is_enabled": 1
+  },
+  {
+    "id": 144,
+    "name": "潍坊市",
+    "code": "07",
+    "province_id": 15,
+    "is_enabled": 1
+  },
+  {
+    "id": 145,
+    "name": "济宁市",
+    "code": "08",
+    "province_id": 15,
+    "is_enabled": 1
+  },
+  {
+    "id": 146,
+    "name": "泰安市",
+    "code": "09",
+    "province_id": 15,
+    "is_enabled": 1
+  },
+  {
+    "id": 147,
+    "name": "威海市",
+    "code": "10",
+    "province_id": 15,
+    "is_enabled": 1
+  },
+  {
+    "id": 148,
+    "name": "日照市",
+    "code": "11",
+    "province_id": 15,
+    "is_enabled": 1
+  },
+  {
+    "id": 149,
+    "name": "莱芜市",
+    "code": "12",
+    "province_id": 15,
+    "is_enabled": 1
+  },
+  {
+    "id": 150,
+    "name": "临沂市",
+    "code": "13",
+    "province_id": 15,
+    "is_enabled": 1
+  },
+  {
+    "id": 151,
+    "name": "德州市",
+    "code": "14",
+    "province_id": 15,
+    "is_enabled": 1
+  },
+  {
+    "id": 152,
+    "name": "聊城市",
+    "code": "15",
+    "province_id": 15,
+    "is_enabled": 1
+  },
+  {
+    "id": 153,
+    "name": "滨州市",
+    "code": "16",
+    "province_id": 15,
+    "is_enabled": 1
+  },
+  {
+    "id": 154,
+    "name": "菏泽市",
+    "code": "17",
+    "province_id": 15,
+    "is_enabled": 1
+  },
+  {
+    "id": 155,
+    "name": "郑州市",
+    "code": "01",
+    "province_id": 16,
+    "is_enabled": 1
+  },
+  {
+    "id": 156,
+    "name": "开封市",
+    "code": "02",
+    "province_id": 16,
+    "is_enabled": 1
+  },
+  {
+    "id": 157,
+    "name": "洛阳市",
+    "code": "03",
+    "province_id": 16,
+    "is_enabled": 1
+  },
+  {
+    "id": 158,
+    "name": "平顶山市",
+    "code": "04",
+    "province_id": 16,
+    "is_enabled": 1
+  },
+  {
+    "id": 159,
+    "name": "安阳市",
+    "code": "05",
+    "province_id": 16,
+    "is_enabled": 1
+  },
+  {
+    "id": 160,
+    "name": "鹤壁市",
+    "code": "06",
+    "province_id": 16,
+    "is_enabled": 1
+  },
+  {
+    "id": 161,
+    "name": "新乡市",
+    "code": "07",
+    "province_id": 16,
+    "is_enabled": 1
+  },
+  {
+    "id": 162,
+    "name": "焦作市",
+    "code": "08",
+    "province_id": 16,
+    "is_enabled": 1
+  },
+  {
+    "id": 163,
+    "name": "濮阳市",
+    "code": "09",
+    "province_id": 16,
+    "is_enabled": 1
+  },
+  {
+    "id": 164,
+    "name": "许昌市",
+    "code": "10",
+    "province_id": 16,
+    "is_enabled": 1
+  },
+  {
+    "id": 165,
+    "name": "漯河市",
+    "code": "11",
+    "province_id": 16,
+    "is_enabled": 1
+  },
+  {
+    "id": 166,
+    "name": "三门峡市",
+    "code": "12",
+    "province_id": 16,
+    "is_enabled": 1
+  },
+  {
+    "id": 167,
+    "name": "南阳市",
+    "code": "13",
+    "province_id": 16,
+    "is_enabled": 1
+  },
+  {
+    "id": 168,
+    "name": "商丘市",
+    "code": "14",
+    "province_id": 16,
+    "is_enabled": 1
+  },
+  {
+    "id": 169,
+    "name": "信阳市",
+    "code": "15",
+    "province_id": 16,
+    "is_enabled": 1
+  },
+  {
+    "id": 170,
+    "name": "周口市",
+    "code": "16",
+    "province_id": 16,
+    "is_enabled": 1
+  },
+  {
+    "id": 171,
+    "name": "驻马店市",
+    "code": "17",
+    "province_id": 16,
+    "is_enabled": 1
+  },
+  {
+    "id": 172,
+    "name": "武汉市",
+    "code": "01",
+    "province_id": 17,
+    "is_enabled": 1
+  },
+  {
+    "id": 173,
+    "name": "黄石市",
+    "code": "02",
+    "province_id": 17,
+    "is_enabled": 1
+  },
+  {
+    "id": 174,
+    "name": "十堰市",
+    "code": "03",
+    "province_id": 17,
+    "is_enabled": 1
+  },
+  {
+    "id": 175,
+    "name": "宜昌市",
+    "code": "05",
+    "province_id": 17,
+    "is_enabled": 1
+  },
+  {
+    "id": 176,
+    "name": "襄樊市",
+    "code": "06",
+    "province_id": 17,
+    "is_enabled": 1
+  },
+  {
+    "id": 177,
+    "name": "鄂州市",
+    "code": "07",
+    "province_id": 17,
+    "is_enabled": 1
+  },
+  {
+    "id": 178,
+    "name": "荆门市",
+    "code": "08",
+    "province_id": 17,
+    "is_enabled": 1
+  },
+  {
+    "id": 179,
+    "name": "孝感市",
+    "code": "09",
+    "province_id": 17,
+    "is_enabled": 1
+  },
+  {
+    "id": 180,
+    "name": "荆州市",
+    "code": "10",
+    "province_id": 17,
+    "is_enabled": 1
+  },
+  {
+    "id": 181,
+    "name": "黄冈市",
+    "code": "11",
+    "province_id": 17,
+    "is_enabled": 1
+  },
+  {
+    "id": 182,
+    "name": "咸宁市",
+    "code": "12",
+    "province_id": 17,
+    "is_enabled": 1
+  },
+  {
+    "id": 183,
+    "name": "随州市",
+    "code": "13",
+    "province_id": 17,
+    "is_enabled": 1
+  },
+  {
+    "id": 184,
+    "name": "恩施州",
+    "code": "28",
+    "province_id": 17,
+    "is_enabled": 1
+  },
+  {
+    "id": 185,
+    "name": "省直辖行政单位",
+    "code": "90",
+    "province_id": 17,
+    "is_enabled": 1
+  },
+  {
+    "id": 186,
+    "name": "长沙市",
+    "code": "01",
+    "province_id": 18,
+    "is_enabled": 1
+  },
+  {
+    "id": 187,
+    "name": "株洲市",
+    "code": "02",
+    "province_id": 18,
+    "is_enabled": 1
+  },
+  {
+    "id": 188,
+    "name": "湘潭市",
+    "code": "03",
+    "province_id": 18,
+    "is_enabled": 1
+  },
+  {
+    "id": 189,
+    "name": "衡阳市",
+    "code": "04",
+    "province_id": 18,
+    "is_enabled": 1
+  },
+  {
+    "id": 190,
+    "name": "邵阳市",
+    "code": "05",
+    "province_id": 18,
+    "is_enabled": 1
+  },
+  {
+    "id": 191,
+    "name": "岳阳市",
+    "code": "06",
+    "province_id": 18,
+    "is_enabled": 1
+  },
+  {
+    "id": 192,
+    "name": "常德市",
+    "code": "07",
+    "province_id": 18,
+    "is_enabled": 1
+  },
+  {
+    "id": 193,
+    "name": "张家界市",
+    "code": "08",
+    "province_id": 18,
+    "is_enabled": 1
+  },
+  {
+    "id": 194,
+    "name": "益阳市",
+    "code": "09",
+    "province_id": 18,
+    "is_enabled": 1
+  },
+  {
+    "id": 195,
+    "name": "郴州市",
+    "code": "10",
+    "province_id": 18,
+    "is_enabled": 1
+  },
+  {
+    "id": 196,
+    "name": "永州市",
+    "code": "11",
+    "province_id": 18,
+    "is_enabled": 1
+  },
+  {
+    "id": 197,
+    "name": "怀化市",
+    "code": "12",
+    "province_id": 18,
+    "is_enabled": 1
+  },
+  {
+    "id": 198,
+    "name": "娄底市",
+    "code": "13",
+    "province_id": 18,
+    "is_enabled": 1
+  },
+  {
+    "id": 199,
+    "name": "湘西土家族苗族自治州",
+    "code": "31",
+    "province_id": 18,
+    "is_enabled": 1
+  },
+  {
+    "id": 200,
+    "name": "广州市",
+    "code": "01",
+    "province_id": 19,
+    "is_enabled": 1
+  },
+  {
+    "id": 201,
+    "name": "韶关市",
+    "code": "02",
+    "province_id": 19,
+    "is_enabled": 1
+  },
+  {
+    "id": 202,
+    "name": "深圳市",
+    "code": "03",
+    "province_id": 19,
+    "is_enabled": 1
+  },
+  {
+    "id": 203,
+    "name": "珠海市",
+    "code": "04",
+    "province_id": 19,
+    "is_enabled": 1
+  },
+  {
+    "id": 204,
+    "name": "汕头市",
+    "code": "05",
+    "province_id": 19,
+    "is_enabled": 1
+  },
+  {
+    "id": 205,
+    "name": "佛山市",
+    "code": "06",
+    "province_id": 19,
+    "is_enabled": 1
+  },
+  {
+    "id": 206,
+    "name": "江门市",
+    "code": "07",
+    "province_id": 19,
+    "is_enabled": 1
+  },
+  {
+    "id": 207,
+    "name": "湛江市",
+    "code": "08",
+    "province_id": 19,
+    "is_enabled": 1
+  },
+  {
+    "id": 208,
+    "name": "茂名市",
+    "code": "09",
+    "province_id": 19,
+    "is_enabled": 1
+  },
+  {
+    "id": 209,
+    "name": "肇庆市",
+    "code": "12",
+    "province_id": 19,
+    "is_enabled": 1
+  },
+  {
+    "id": 210,
+    "name": "惠州市",
+    "code": "13",
+    "province_id": 19,
+    "is_enabled": 1
+  },
+  {
+    "id": 211,
+    "name": "梅州市",
+    "code": "14",
+    "province_id": 19,
+    "is_enabled": 1
+  },
+  {
+    "id": 212,
+    "name": "汕尾市",
+    "code": "15",
+    "province_id": 19,
+    "is_enabled": 1
+  },
+  {
+    "id": 213,
+    "name": "河源市",
+    "code": "16",
+    "province_id": 19,
+    "is_enabled": 1
+  },
+  {
+    "id": 214,
+    "name": "阳江市",
+    "code": "17",
+    "province_id": 19,
+    "is_enabled": 1
+  },
+  {
+    "id": 215,
+    "name": "清远市",
+    "code": "18",
+    "province_id": 19,
+    "is_enabled": 1
+  },
+  {
+    "id": 216,
+    "name": "东莞市",
+    "code": "19",
+    "province_id": 19,
+    "is_enabled": 1
+  },
+  {
+    "id": 217,
+    "name": "中山市",
+    "code": "20",
+    "province_id": 19,
+    "is_enabled": 1
+  },
+  {
+    "id": 218,
+    "name": "潮州市",
+    "code": "51",
+    "province_id": 19,
+    "is_enabled": 1
+  },
+  {
+    "id": 219,
+    "name": "揭阳市",
+    "code": "52",
+    "province_id": 19,
+    "is_enabled": 1
+  },
+  {
+    "id": 220,
+    "name": "云浮市",
+    "code": "53",
+    "province_id": 19,
+    "is_enabled": 1
+  },
+  {
+    "id": 221,
+    "name": "南宁市",
+    "code": "01",
+    "province_id": 20,
+    "is_enabled": 1
+  },
+  {
+    "id": 222,
+    "name": "柳州市",
+    "code": "02",
+    "province_id": 20,
+    "is_enabled": 1
+  },
+  {
+    "id": 223,
+    "name": "桂林市",
+    "code": "03",
+    "province_id": 20,
+    "is_enabled": 1
+  },
+  {
+    "id": 224,
+    "name": "梧州市",
+    "code": "04",
+    "province_id": 20,
+    "is_enabled": 1
+  },
+  {
+    "id": 225,
+    "name": "北海市",
+    "code": "05",
+    "province_id": 20,
+    "is_enabled": 1
+  },
+  {
+    "id": 226,
+    "name": "防城港市",
+    "code": "06",
+    "province_id": 20,
+    "is_enabled": 1
+  },
+  {
+    "id": 227,
+    "name": "钦州市",
+    "code": "07",
+    "province_id": 20,
+    "is_enabled": 1
+  },
+  {
+    "id": 228,
+    "name": "贵港市",
+    "code": "08",
+    "province_id": 20,
+    "is_enabled": 1
+  },
+  {
+    "id": 229,
+    "name": "玉林市",
+    "code": "09",
+    "province_id": 20,
+    "is_enabled": 1
+  },
+  {
+    "id": 230,
+    "name": "百色市",
+    "code": "10",
+    "province_id": 20,
+    "is_enabled": 1
+  },
+  {
+    "id": 231,
+    "name": "贺州市",
+    "code": "11",
+    "province_id": 20,
+    "is_enabled": 1
+  },
+  {
+    "id": 232,
+    "name": "河池市",
+    "code": "12",
+    "province_id": 20,
+    "is_enabled": 1
+  },
+  {
+    "id": 233,
+    "name": "来宾市",
+    "code": "13",
+    "province_id": 20,
+    "is_enabled": 1
+  },
+  {
+    "id": 234,
+    "name": "崇左市",
+    "code": "14",
+    "province_id": 20,
+    "is_enabled": 1
+  },
+  {
+    "id": 235,
+    "name": "海口市",
+    "code": "01",
+    "province_id": 21,
+    "is_enabled": 1
+  },
+  {
+    "id": 236,
+    "name": "三亚市",
+    "code": "02",
+    "province_id": 21,
+    "is_enabled": 1
+  },
+  {
+    "id": 237,
+    "name": "省属虚拟市",
+    "code": "90",
+    "province_id": 21,
+    "is_enabled": 1
+  },
+  {
+    "id": 238,
+    "name": "市辖区",
+    "code": "01",
+    "province_id": 22,
+    "is_enabled": 1
+  },
+  {
+    "id": 239,
+    "name": "县",
+    "code": "02",
+    "province_id": 22,
+    "is_enabled": 1
+  },
+  {
+    "id": 240,
+    "name": "成都市",
+    "code": "01",
+    "province_id": 23,
+    "is_enabled": 1
+  },
+  {
+    "id": 241,
+    "name": "自贡市",
+    "code": "03",
+    "province_id": 23,
+    "is_enabled": 1
+  },
+  {
+    "id": 242,
+    "name": "攀枝花市",
+    "code": "04",
+    "province_id": 23,
+    "is_enabled": 1
+  },
+  {
+    "id": 243,
+    "name": "泸州市",
+    "code": "05",
+    "province_id": 23,
+    "is_enabled": 1
+  },
+  {
+    "id": 244,
+    "name": "德阳市",
+    "code": "06",
+    "province_id": 23,
+    "is_enabled": 1
+  },
+  {
+    "id": 245,
+    "name": "绵阳市",
+    "code": "07",
+    "province_id": 23,
+    "is_enabled": 1
+  },
+  {
+    "id": 246,
+    "name": "广元市",
+    "code": "08",
+    "province_id": 23,
+    "is_enabled": 1
+  },
+  {
+    "id": 247,
+    "name": "遂宁市",
+    "code": "09",
+    "province_id": 23,
+    "is_enabled": 1
+  },
+  {
+    "id": 248,
+    "name": "内江市",
+    "code": "10",
+    "province_id": 23,
+    "is_enabled": 1
+  },
+  {
+    "id": 249,
+    "name": "乐山市",
+    "code": "11",
+    "province_id": 23,
+    "is_enabled": 1
+  },
+  {
+    "id": 250,
+    "name": "南充市",
+    "code": "13",
+    "province_id": 23,
+    "is_enabled": 1
+  },
+  {
+    "id": 251,
+    "name": "眉山市",
+    "code": "14",
+    "province_id": 23,
+    "is_enabled": 1
+  },
+  {
+    "id": 252,
+    "name": "宜宾市",
+    "code": "15",
+    "province_id": 23,
+    "is_enabled": 1
+  },
+  {
+    "id": 253,
+    "name": "广安市",
+    "code": "16",
+    "province_id": 23,
+    "is_enabled": 1
+  },
+  {
+    "id": 254,
+    "name": "达州市",
+    "code": "17",
+    "province_id": 23,
+    "is_enabled": 1
+  },
+  {
+    "id": 255,
+    "name": "雅安市",
+    "code": "18",
+    "province_id": 23,
+    "is_enabled": 1
+  },
+  {
+    "id": 256,
+    "name": "巴中市",
+    "code": "19",
+    "province_id": 23,
+    "is_enabled": 1
+  },
+  {
+    "id": 257,
+    "name": "资阳市",
+    "code": "20",
+    "province_id": 23,
+    "is_enabled": 1
+  },
+  {
+    "id": 258,
+    "name": "阿坝州",
+    "code": "32",
+    "province_id": 23,
+    "is_enabled": 1
+  },
+  {
+    "id": 259,
+    "name": "甘孜藏族自治州",
+    "code": "33",
+    "province_id": 23,
+    "is_enabled": 1
+  },
+  {
+    "id": 260,
+    "name": "凉山州",
+    "code": "34",
+    "province_id": 23,
+    "is_enabled": 1
+  },
+  {
+    "id": 261,
+    "name": "贵阳市",
+    "code": "01",
+    "province_id": 24,
+    "is_enabled": 1
+  },
+  {
+    "id": 262,
+    "name": "六盘水市",
+    "code": "02",
+    "province_id": 24,
+    "is_enabled": 1
+  },
+  {
+    "id": 263,
+    "name": "遵义市",
+    "code": "03",
+    "province_id": 24,
+    "is_enabled": 1
+  },
+  {
+    "id": 264,
+    "name": "安顺市",
+    "code": "04",
+    "province_id": 24,
+    "is_enabled": 1
+  },
+  {
+    "id": 265,
+    "name": "铜仁地区",
+    "code": "22",
+    "province_id": 24,
+    "is_enabled": 1
+  },
+  {
+    "id": 266,
+    "name": "黔西南州",
+    "code": "23",
+    "province_id": 24,
+    "is_enabled": 1
+  },
+  {
+    "id": 267,
+    "name": "毕节地区",
+    "code": "24",
+    "province_id": 24,
+    "is_enabled": 1
+  },
+  {
+    "id": 268,
+    "name": "黔东南苗族侗族自治州",
+    "code": "26",
+    "province_id": 24,
+    "is_enabled": 1
+  },
+  {
+    "id": 269,
+    "name": "黔南布依族苗族自治州",
+    "code": "27",
+    "province_id": 24,
+    "is_enabled": 1
+  },
+  {
+    "id": 270,
+    "name": "昆明市",
+    "code": "01",
+    "province_id": 25,
+    "is_enabled": 1
+  },
+  {
+    "id": 271,
+    "name": "曲靖市",
+    "code": "03",
+    "province_id": 25,
+    "is_enabled": 1
+  },
+  {
+    "id": 272,
+    "name": "玉溪市",
+    "code": "04",
+    "province_id": 25,
+    "is_enabled": 1
+  },
+  {
+    "id": 273,
+    "name": "保山市",
+    "code": "05",
+    "province_id": 25,
+    "is_enabled": 1
+  },
+  {
+    "id": 274,
+    "name": "昭通市",
+    "code": "06",
+    "province_id": 25,
+    "is_enabled": 1
+  },
+  {
+    "id": 275,
+    "name": "丽江市",
+    "code": "07",
+    "province_id": 25,
+    "is_enabled": 1
+  },
+  {
+    "id": 276,
+    "name": "思茅市",
+    "code": "08",
+    "province_id": 25,
+    "is_enabled": 1
+  },
+  {
+    "id": 277,
+    "name": "临沧市",
+    "code": "09",
+    "province_id": 25,
+    "is_enabled": 1
+  },
+  {
+    "id": 278,
+    "name": "楚雄州",
+    "code": "23",
+    "province_id": 25,
+    "is_enabled": 1
+  },
+  {
+    "id": 279,
+    "name": "红河州",
+    "code": "25",
+    "province_id": 25,
+    "is_enabled": 1
+  },
+  {
+    "id": 280,
+    "name": "文山州",
+    "code": "26",
+    "province_id": 25,
+    "is_enabled": 1
+  },
+  {
+    "id": 281,
+    "name": "西双版纳州",
+    "code": "28",
+    "province_id": 25,
+    "is_enabled": 1
+  },
+  {
+    "id": 282,
+    "name": "大理州",
+    "code": "29",
+    "province_id": 25,
+    "is_enabled": 1
+  },
+  {
+    "id": 283,
+    "name": "德宏州",
+    "code": "31",
+    "province_id": 25,
+    "is_enabled": 1
+  },
+  {
+    "id": 284,
+    "name": "怒江州",
+    "code": "33",
+    "province_id": 25,
+    "is_enabled": 1
+  },
+  {
+    "id": 285,
+    "name": "迪庆州",
+    "code": "34",
+    "province_id": 25,
+    "is_enabled": 1
+  },
+  {
+    "id": 286,
+    "name": "拉萨市",
+    "code": "01",
+    "province_id": 26,
+    "is_enabled": 1
+  },
+  {
+    "id": 287,
+    "name": "昌都地区",
+    "code": "21",
+    "province_id": 26,
+    "is_enabled": 1
+  },
+  {
+    "id": 288,
+    "name": "山南地区",
+    "code": "22",
+    "province_id": 26,
+    "is_enabled": 1
+  },
+  {
+    "id": 289,
+    "name": "日喀则地区",
+    "code": "23",
+    "province_id": 26,
+    "is_enabled": 1
+  },
+  {
+    "id": 290,
+    "name": "那曲地区",
+    "code": "24",
+    "province_id": 26,
+    "is_enabled": 1
+  },
+  {
+    "id": 291,
+    "name": "阿里地区",
+    "code": "25",
+    "province_id": 26,
+    "is_enabled": 1
+  },
+  {
+    "id": 292,
+    "name": "林芝地区",
+    "code": "26",
+    "province_id": 26,
+    "is_enabled": 1
+  },
+  {
+    "id": 293,
+    "name": "西安市",
+    "code": "01",
+    "province_id": 27,
+    "is_enabled": 1
+  },
+  {
+    "id": 294,
+    "name": "铜川市",
+    "code": "02",
+    "province_id": 27,
+    "is_enabled": 1
+  },
+  {
+    "id": 295,
+    "name": "宝鸡市",
+    "code": "03",
+    "province_id": 27,
+    "is_enabled": 1
+  },
+  {
+    "id": 296,
+    "name": "咸阳市",
+    "code": "04",
+    "province_id": 27,
+    "is_enabled": 1
+  },
+  {
+    "id": 297,
+    "name": "渭南市",
+    "code": "05",
+    "province_id": 27,
+    "is_enabled": 1
+  },
+  {
+    "id": 298,
+    "name": "延安市",
+    "code": "06",
+    "province_id": 27,
+    "is_enabled": 1
+  },
+  {
+    "id": 299,
+    "name": "汉中市",
+    "code": "07",
+    "province_id": 27,
+    "is_enabled": 1
+  },
+  {
+    "id": 300,
+    "name": "榆林市",
+    "code": "08",
+    "province_id": 27,
+    "is_enabled": 1
+  },
+  {
+    "id": 301,
+    "name": "安康市",
+    "code": "09",
+    "province_id": 27,
+    "is_enabled": 1
+  },
+  {
+    "id": 302,
+    "name": "商洛市",
+    "code": "10",
+    "province_id": 27,
+    "is_enabled": 1
+  },
+  {
+    "id": 303,
+    "name": "兰州市",
+    "code": "01",
+    "province_id": 28,
+    "is_enabled": 1
+  },
+  {
+    "id": 304,
+    "name": "嘉峪关市",
+    "code": "02",
+    "province_id": 28,
+    "is_enabled": 1
+  },
+  {
+    "id": 305,
+    "name": "金昌市",
+    "code": "03",
+    "province_id": 28,
+    "is_enabled": 1
+  },
+  {
+    "id": 306,
+    "name": "白银市",
+    "code": "04",
+    "province_id": 28,
+    "is_enabled": 1
+  },
+  {
+    "id": 307,
+    "name": "天水市",
+    "code": "05",
+    "province_id": 28,
+    "is_enabled": 1
+  },
+  {
+    "id": 308,
+    "name": "武威市",
+    "code": "06",
+    "province_id": 28,
+    "is_enabled": 1
+  },
+  {
+    "id": 309,
+    "name": "张掖市",
+    "code": "07",
+    "province_id": 28,
+    "is_enabled": 1
+  },
+  {
+    "id": 310,
+    "name": "平凉市",
+    "code": "08",
+    "province_id": 28,
+    "is_enabled": 1
+  },
+  {
+    "id": 311,
+    "name": "酒泉市",
+    "code": "09",
+    "province_id": 28,
+    "is_enabled": 1
+  },
+  {
+    "id": 312,
+    "name": "庆阳市",
+    "code": "10",
+    "province_id": 28,
+    "is_enabled": 1
+  },
+  {
+    "id": 313,
+    "name": "定西市",
+    "code": "11",
+    "province_id": 28,
+    "is_enabled": 1
+  },
+  {
+    "id": 314,
+    "name": "陇南市",
+    "code": "12",
+    "province_id": 28,
+    "is_enabled": 1
+  },
+  {
+    "id": 315,
+    "name": "临夏州",
+    "code": "29",
+    "province_id": 28,
+    "is_enabled": 1
+  },
+  {
+    "id": 316,
+    "name": "甘南州",
+    "code": "30",
+    "province_id": 28,
+    "is_enabled": 1
+  },
+  {
+    "id": 317,
+    "name": "西宁市",
+    "code": "01",
+    "province_id": 29,
+    "is_enabled": 1
+  },
+  {
+    "id": 318,
+    "name": "海东地区",
+    "code": "21",
+    "province_id": 29,
+    "is_enabled": 1
+  },
+  {
+    "id": 319,
+    "name": "海北州",
+    "code": "22",
+    "province_id": 29,
+    "is_enabled": 1
+  },
+  {
+    "id": 320,
+    "name": "黄南州",
+    "code": "23",
+    "province_id": 29,
+    "is_enabled": 1
+  },
+  {
+    "id": 321,
+    "name": "海南州",
+    "code": "25",
+    "province_id": 29,
+    "is_enabled": 1
+  },
+  {
+    "id": 322,
+    "name": "果洛州",
+    "code": "26",
+    "province_id": 29,
+    "is_enabled": 1
+  },
+  {
+    "id": 323,
+    "name": "玉树州",
+    "code": "27",
+    "province_id": 29,
+    "is_enabled": 1
+  },
+  {
+    "id": 324,
+    "name": "海西州",
+    "code": "28",
+    "province_id": 29,
+    "is_enabled": 1
+  },
+  {
+    "id": 325,
+    "name": "银川市",
+    "code": "01",
+    "province_id": 30,
+    "is_enabled": 1
+  },
+  {
+    "id": 326,
+    "name": "石嘴山市",
+    "code": "02",
+    "province_id": 30,
+    "is_enabled": 1
+  },
+  {
+    "id": 327,
+    "name": "吴忠市",
+    "code": "03",
+    "province_id": 30,
+    "is_enabled": 1
+  },
+  {
+    "id": 328,
+    "name": "固原市",
+    "code": "04",
+    "province_id": 30,
+    "is_enabled": 1
+  },
+  {
+    "id": 329,
+    "name": "中卫市",
+    "code": "05",
+    "province_id": 30,
+    "is_enabled": 1
+  },
+  {
+    "id": 330,
+    "name": "乌鲁木齐市",
+    "code": "01",
+    "province_id": 31,
+    "is_enabled": 1
+  },
+  {
+    "id": 331,
+    "name": "克拉玛依市",
+    "code": "02",
+    "province_id": 31,
+    "is_enabled": 1
+  },
+  {
+    "id": 332,
+    "name": "吐鲁番地区",
+    "code": "21",
+    "province_id": 31,
+    "is_enabled": 1
+  },
+  {
+    "id": 333,
+    "name": "哈密地区",
+    "code": "22",
+    "province_id": 31,
+    "is_enabled": 1
+  },
+  {
+    "id": 334,
+    "name": "昌吉州",
+    "code": "23",
+    "province_id": 31,
+    "is_enabled": 1
+  },
+  {
+    "id": 335,
+    "name": "博尔塔拉蒙古自治州",
+    "code": "27",
+    "province_id": 31,
+    "is_enabled": 1
+  },
+  {
+    "id": 336,
+    "name": "巴音郭楞蒙古自治州",
+    "code": "28",
+    "province_id": 31,
+    "is_enabled": 1
+  },
+  {
+    "id": 337,
+    "name": "阿克苏地区",
+    "code": "29",
+    "province_id": 31,
+    "is_enabled": 1
+  },
+  {
+    "id": 338,
+    "name": "克州",
+    "code": "30",
+    "province_id": 31,
+    "is_enabled": 1
+  },
+  {
+    "id": 339,
+    "name": "喀什地区",
+    "code": "31",
+    "province_id": 31,
+    "is_enabled": 1
+  },
+  {
+    "id": 340,
+    "name": "和田地区",
+    "code": "32",
+    "province_id": 31,
+    "is_enabled": 1
+  },
+  {
+    "id": 341,
+    "name": "伊犁州",
+    "code": "40",
+    "province_id": 31,
+    "is_enabled": 1
+  },
+  {
+    "id": 342,
+    "name": "塔城地区",
+    "code": "42",
+    "province_id": 31,
+    "is_enabled": 1
+  },
+  {
+    "id": 343,
+    "name": "阿勒泰地区",
+    "code": "43",
+    "province_id": 31,
+    "is_enabled": 1
+  },
+  {
+    "id": 344,
+    "name": "省直辖行政单位",
+    "code": "90",
+    "province_id": 31,
+    "is_enabled": 1
+  }
+]

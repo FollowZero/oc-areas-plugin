@@ -1,0 +1,10 @@
+name: Areas
+form: $/plus/area/models/province/fields.yaml
+modelClass: Plus\Area\Models\Province
+defaultRedirect: plus/area/areas
+create:
+    redirect: 'plus/area/areas/update/:id'
+    redirectClose: plus/area/areas
+update:
+    redirect: plus/area/areas
+    redirectClose: plus/area/areas

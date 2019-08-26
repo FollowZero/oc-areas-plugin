@@ -1,0 +1,6 @@
+plugin:
+    name: 'plus.area::lang.plugin.name'
+    description: 'plus.area::lang.plugin.description'
+    author: Plus
+    icon: oc-icon-map-marker
+    homepage: ''

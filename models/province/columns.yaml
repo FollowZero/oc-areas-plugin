@@ -1,0 +1,10 @@
+columns:
+    name:
+        label: 'plus.area::lang.province.name'
+        type: text
+    code:
+        label: 'plus.area::lang.province.code'
+        type: text
+    is_enabled:
+        label: 'plus.area::lang.province.enabled'
+        type: switch

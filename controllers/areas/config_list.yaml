@@ -1,0 +1,15 @@
+list: $/plus/area/models/province/columns.yaml
+modelClass: Plus\Area\Models\Province
+title: Areas
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'plus/area/areas/update/:id'
+
+# Filter widget configuration
+filter: config_filter.yaml

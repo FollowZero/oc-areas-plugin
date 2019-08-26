@@ -1,0 +1,10 @@
+name: Towns
+form: $/plus/area/models/town/fields.yaml
+modelClass: Plus\Area\Models\Town
+defaultRedirect: plus/area/towns
+create:
+    redirect: 'plus/area/towns/update/:id'
+    redirectClose: plus/area/towns
+update:
+    redirect: plus/area/towns
+    redirectClose: plus/area/towns

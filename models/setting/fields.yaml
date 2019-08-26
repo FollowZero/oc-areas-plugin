@@ -1,0 +1,9 @@
+fields:
+    town_status:
+        label: 'plus.area::lang.settings.town_status'
+        span: auto
+        type: switch
+    village_status:
+        label: 'plus.area::lang.settings.village_status'
+        span: auto
+        type: switch

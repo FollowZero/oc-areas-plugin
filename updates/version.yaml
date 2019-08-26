@@ -1,0 +1,11 @@
+1.0.1:
+    - Initialize plugin.
+1.0.2:
+    - Create database tables.
+    - create_provinces_table.php
+    - create_cities_table.php
+    - create_counties_table.php
+    - seed_provinces_table.php
+    - seed_cities_table.php
+    - seed_counties_table.php
+    # town和village数据量到且不常用。不写到这里,直接在sql里运行

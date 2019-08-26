@@ -1,0 +1,13 @@
+# ===================================
+#  Relation Behavior Config
+# ===================================
+
+counties:
+    label: plus.area::lang.county.label
+    manage:
+        list: $/plus/area/models/county/columns.yaml
+        form: $/plus/area/models/county/fields.yaml
+    view:
+        list: $/plus/area/models/county/columns.yaml
+        recordUrl: plus/area/counties/update/:id
+        toolbarButtons: create|delete

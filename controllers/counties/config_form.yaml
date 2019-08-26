@@ -1,0 +1,10 @@
+name: Counties
+form: $/plus/area/models/county/fields.yaml
+modelClass: Plus\Area\Models\County
+defaultRedirect: plus/area/counties
+create:
+    redirect: 'plus/area/counties/update/:id'
+    redirectClose: plus/area/counties
+update:
+    redirect: plus/area/counties
+    redirectClose: plus/area/counties

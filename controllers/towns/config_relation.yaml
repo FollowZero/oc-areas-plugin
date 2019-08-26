@@ -1,0 +1,13 @@
+# ===================================
+#  Relation Behavior Config
+# ===================================
+
+villages:
+    label: plus.area::lang.village.label
+    manage:
+        list: $/plus/area/models/village/columns.yaml
+        form: $/plus/area/models/village/fields.yaml
+    view:
+        list: $/plus/area/models/village/columns.yaml
+        recordUrl: plus/area/villages/update/:id
+        toolbarButtons: create|delete

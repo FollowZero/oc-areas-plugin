@@ -1,0 +1,10 @@
+name: Villages
+form: $/plus/area/models/village/fields.yaml
+modelClass: Plus\Area\Models\Village
+defaultRedirect: plus/area/villages
+create:
+    redirect: 'plus/area/villages/update/:id'
+    redirectClose: plus/area/villages
+update:
+    redirect: plus/area/villages
+    redirectClose: plus/area/villages
